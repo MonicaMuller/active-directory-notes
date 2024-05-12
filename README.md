@@ -1,4 +1,4 @@
-# Mirosoft Active Directory
+# Microsoft Active Directory
 Source: [Learn Microsoft Active Directory (ADDS) in 30mins by  Andy Malone MVP](https://www.youtube.com/watch?v=85-bp7XxWDQ&t=304s)
 
 ## The Basics
