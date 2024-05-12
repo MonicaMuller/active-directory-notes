@@ -29,7 +29,7 @@ Source: [Learn Microsoft Active Directory (ADDS) in 30mins by  Andy Malone MVP](
     -	Servers with Active Directory installed
 -	Intra-site Replication
     -	Replicate automatically
-    -	High-speed bandwidth assumed
+    -	High-speed bandwidth
     -	Within one site
 -	Inter-site Replication
     -	Used for remote sites without high-speed bandwidth
