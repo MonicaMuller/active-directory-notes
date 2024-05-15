@@ -38,4 +38,14 @@ Source: [Learn Microsoft Active Directory (ADDS) in 30mins by  Andy Malone MVP](
     -	Often used by large corporations to create boundaries between different locations and/or departments
     -	Helps to improve security
 
+## Azure Active Directory
+
+-	Microsoft’s Identity as a Service (IDaaS) platform
+-	Database is stored in Azure
+    -	Alternative to having the ADDS database on your DCs on-prem
+    -	Microsoft maintains the databases
+-	No OUs
+    -	Tenants act as folders
+    -	Folders hold objects which have attributes
+-	Azure AD allows for multiple customers, multiple accounts, different tenants, and sharing resources
 
